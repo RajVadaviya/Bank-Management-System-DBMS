@@ -21,4 +21,3 @@ This project is a complete bank management system built using SQL and PL/SQL.
 1. Import tables.sql  
 2. Insert sample data  
 3. Run procedures and triggers from plsql folder  
-
