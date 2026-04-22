@@ -6,3 +6,4 @@ BEGIN
     RETURN p_amount * 0.05; -- 5% interest
 END;
 /
+
