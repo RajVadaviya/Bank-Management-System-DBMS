@@ -12,3 +12,4 @@ BEGIN
     DBMS_OUTPUT.PUT_LINE('Amount ' || p_amount || ' deposited to Account ' || p_account_no);
 END;
 /
+
